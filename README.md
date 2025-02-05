@@ -90,3 +90,23 @@ $ go get github.com/labstack/echo/v4
 
 - REST apis
 - File transfert
+
+## Gin Gonic
+
+[Gin site](https://gin-gonic.com/docs/)
+
+```sh
+go get -u github.com/gin-gonic/gin
+# or
+go install github.com/gin-gonic/gin@latest
+```
+
+### Pros
+
+- Full features
+- Simple
+- Mature
+
+### Use cases
+
+- Production

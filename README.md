@@ -65,3 +65,28 @@ go get -u github.com/gofiber/fiber/v3
 ### Use cases
 
 - Streaming
+
+## Echo
+
+[Echo site](https://echo.labstack.com/)
+
+```sh
+$ mkdir myapp && cd myapp
+$ go mod init myapp
+$ go get github.com/labstack/echo/v4
+```
+
+### Pros
+
+- Lightweight
+- Minimalistic
+- Feature rich
+
+### Cons
+
+- Small community
+
+### Use cases
+
+- REST apis
+- File transfert

@@ -110,3 +110,25 @@ go install github.com/gin-gonic/gin@latest
 ### Use cases
 
 - Production
+
+## Kratos
+
+[Kratos site](https://go-kratos.dev/)
+
+```sh
+go install github.com/go-kratos/kratos/cmd/kratos/v2@latest
+go get github.com/google/wire/cmd/wire@latest
+```
+
+### Pros
+
+- Powerful
+- gRPC, HTTP and many protocols
+- Built-in discovery
+- Advanced load balancer
+
+### Use cases
+
+- Hi performance microservices
+- Large scale distributed
+- API gateways
